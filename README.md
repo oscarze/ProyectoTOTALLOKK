@@ -1,2 +1,1 @@
-# ProyectoTOTALLOKK
-JEJE
+#  Pagina WEB Programacion declarativa
